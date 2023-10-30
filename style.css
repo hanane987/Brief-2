@@ -20,6 +20,7 @@ header {
   z-index: 999;
   display: flex;
   justify-content: space-between;
+  position: fixed;
   align-items: center;
   padding: 10px 100px;
 }
@@ -145,6 +146,7 @@ section {
   font-size: 70px;
   text-align: center;
   margin-top: 90px;
+
   position: relative;
 
   left: 0px;
